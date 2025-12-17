@@ -27,7 +27,7 @@ Este site simula uma loja de roupas online ("Ateliê Urbano - Coleção Verão 2
 
 1. Acesse [GitHub](https://github.com) e faça login
 2. Clique em **"New repository"**
-3. Nome sugerido: `atelie-urbano-test`
+3. Nome sugerido: `atelie-urbano`
 4. Marque como **Public**
 5. Clique em **"Create repository"**
 
